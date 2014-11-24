@@ -1,0 +1,6 @@
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\bin\Debug\SuperHelper_SQLite.XML
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\bin\Debug\SuperHelper_SQLite.dll
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\bin\Debug\SuperHelper_SQLite.pdb
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\obj\Debug\SuperHelper_SQLite.csprojResolveAssemblyReference.cache
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\obj\Debug\SuperHelper_SQLite.dll
+E:\Git_Repository\SuperHelper\SuperHelper_SQLite\SuperHelper\obj\Debug\SuperHelper_SQLite.pdb

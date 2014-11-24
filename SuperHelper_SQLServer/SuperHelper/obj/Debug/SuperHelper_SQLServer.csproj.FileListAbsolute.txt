@@ -1,0 +1,6 @@
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\bin\Debug\SuperHelper_SQLServer.xml
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\bin\Debug\SuperHelper_SQLServer.dll
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\bin\Debug\SuperHelper_SQLServer.pdb
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\obj\Debug\SuperHelper_SQLServer.csprojResolveAssemblyReference.cache
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\obj\Debug\SuperHelper_SQLServer.dll
+E:\Git_Repository\SuperHelper\SuperHelper_SQLServer\SuperHelper\obj\Debug\SuperHelper_SQLServer.pdb
