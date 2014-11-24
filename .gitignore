@@ -1,0 +1,15 @@
+﻿#过滤数据库文件、sln解决方案文件、配置文件等
+*.mdb
+*.ldb
+*.sln
+*.suo
+*.config
+*.chm
+
+
+#过滤文件夹
+Debug/
+Release/
+obj/
+SuperHelper组件库/
+帮助文档/
